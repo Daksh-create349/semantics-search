@@ -1,4 +1,4 @@
-# Semantics Search
+# Semantic Search
 
 A simple semantic search application designed to process PDF documents and perform similarity searches using vector embeddings.
 
